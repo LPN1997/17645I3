@@ -1,0 +1,501 @@
+,user_id,age,occupation,gender
+0,765366,25,executive/managerial,M
+1,444968,27,self-employed,M
+2,135243,26,college/grad student,M
+3,652836,31,college/grad student,M
+4,639232,27,college/grad student,F
+5,294056,25,scientist,M
+6,923956,28,executive/managerial,M
+7,258125,34,sales/marketing,M
+8,668201,27,scientist,F
+9,108258,29,self-employed,M
+10,343381,34,college/grad student,M
+11,110541,30,college/grad student,M
+12,120814,26,executive/managerial,M
+13,504291,27,sales/marketing,M
+14,639232,27,college/grad student,F
+15,923956,28,executive/managerial,M
+16,123855,28,sales/marketing,M
+17,108258,29,self-employed,M
+18,528121,27,college/grad student,M
+19,741418,31,scientist,M
+20,450917,29,academic/educator,M
+21,120814,26,executive/managerial,M
+22,461,22,customer service,M
+23,444968,27,self-employed,M
+24,409153,11,artist,F
+25,639232,27,college/grad student,F
+26,305005,34,sales/marketing,F
+27,567527,27,college/grad student,M
+28,983054,32,college/grad student,M
+29,923956,28,executive/managerial,M
+30,950068,27,college/grad student,M
+31,477196,25,executive/managerial,M
+32,224680,33,executive/managerial,M
+33,39840,28,executive/managerial,M
+34,652836,31,college/grad student,M
+35,327279,27,scientist,M
+36,120814,26,executive/managerial,M
+37,343381,34,college/grad student,M
+38,639232,27,college/grad student,F
+39,135243,26,college/grad student,M
+40,123855,28,sales/marketing,M
+41,108258,29,self-employed,M
+42,258125,34,sales/marketing,M
+43,39840,28,executive/managerial,M
+44,420334,33,college/grad student,F
+45,444968,27,self-employed,M
+46,343381,34,college/grad student,M
+47,886239,31,other or not specified,M
+48,923956,28,executive/managerial,M
+49,224680,33,executive/managerial,M
+50,741418,31,scientist,M
+51,120814,26,executive/managerial,M
+52,886239,31,other or not specified,M
+53,123855,28,sales/marketing,M
+54,224680,33,executive/managerial,M
+55,741418,31,scientist,M
+56,504291,27,sales/marketing,M
+57,444968,27,self-employed,M
+58,998553,83,other or not specified,M
+59,343381,34,college/grad student,M
+60,886239,31,other or not specified,M
+61,923956,28,executive/managerial,M
+62,528121,27,college/grad student,M
+63,224680,33,executive/managerial,M
+64,343512,34,artist,F
+65,741418,31,scientist,M
+66,444968,27,self-employed,M
+67,789145,31,sales/marketing,M
+68,639232,27,college/grad student,F
+69,123855,28,sales/marketing,M
+70,520839,31,sales/marketing,F
+71,676732,29,sales/marketing,M
+72,777885,37,technician/engineer,M
+73,224680,33,executive/managerial,M
+74,409153,11,artist,F
+75,741418,31,scientist,M
+76,477196,25,executive/managerial,M
+77,954369,21,homemaker,M
+78,129908,36,executive/managerial,M
+79,120814,26,executive/managerial,M
+80,343381,34,college/grad student,M
+81,652836,31,college/grad student,M
+82,639232,27,college/grad student,F
+83,923956,28,executive/managerial,M
+84,108258,29,self-employed,M
+85,294056,25,scientist,M
+86,458694,44,sales/marketing,M
+87,39840,28,executive/managerial,M
+88,444968,27,self-employed,M
+89,639232,27,college/grad student,F
+90,123855,28,sales/marketing,M
+91,504291,27,sales/marketing,M
+92,110541,30,college/grad student,M
+93,224680,33,executive/managerial,M
+94,39840,28,executive/managerial,M
+95,120814,26,executive/managerial,M
+96,343381,34,college/grad student,M
+97,137270,26,college/grad student,F
+98,886239,31,other or not specified,M
+99,923956,28,executive/managerial,M
+100,998553,83,other or not specified,M
+101,343512,34,artist,F
+102,39840,28,executive/managerial,M
+103,676732,29,sales/marketing,M
+104,444968,27,self-employed,M
+105,343381,34,college/grad student,M
+106,520839,31,sales/marketing,F
+107,886239,31,other or not specified,M
+108,923956,28,executive/managerial,M
+109,777885,37,technician/engineer,M
+110,567527,27,college/grad student,M
+111,409153,11,artist,F
+112,950068,27,college/grad student,M
+113,39840,28,executive/managerial,M
+114,454840,27,academic/educator,M
+115,444968,27,self-employed,M
+116,639232,27,college/grad student,F
+117,120814,26,executive/managerial,M
+118,652836,31,college/grad student,M
+119,923956,28,executive/managerial,M
+120,294056,25,scientist,M
+121,135243,26,college/grad student,M
+122,741418,31,scientist,M
+123,420334,33,college/grad student,F
+124,444968,27,self-employed,M
+125,886239,31,other or not specified,M
+126,120814,26,executive/managerial,M
+127,923956,28,executive/managerial,M
+128,967950,33,sales/marketing,M
+129,110541,30,college/grad student,M
+130,39840,28,executive/managerial,M
+131,998553,83,other or not specified,M
+132,444968,27,self-employed,M
+133,343381,34,college/grad student,M
+134,120814,26,executive/managerial,M
+135,137270,26,college/grad student,F
+136,123855,28,sales/marketing,M
+137,461,22,customer service,M
+138,224680,33,executive/managerial,M
+139,39840,28,executive/managerial,M
+140,450917,29,academic/educator,M
+141,941170,25,scientist,M
+142,343381,34,college/grad student,M
+143,676732,29,sales/marketing,M
+144,777885,37,technician/engineer,M
+145,120814,26,executive/managerial,M
+146,923956,28,executive/managerial,M
+147,567527,27,college/grad student,M
+148,477196,25,executive/managerial,M
+149,870229,25,sales/marketing,M
+150,39840,28,executive/managerial,M
+151,327279,27,scientist,M
+152,765366,25,executive/managerial,M
+153,129908,36,executive/managerial,M
+154,652836,31,college/grad student,M
+155,777330,27,academic/educator,F
+156,343381,34,college/grad student,M
+157,258125,34,sales/marketing,M
+158,120814,26,executive/managerial,M
+159,923956,28,executive/managerial,M
+160,123855,28,sales/marketing,M
+161,741418,31,scientist,M
+162,110541,30,college/grad student,M
+163,777330,27,academic/educator,F
+164,967950,33,sales/marketing,M
+165,444968,27,self-employed,M
+166,528121,27,college/grad student,M
+167,639232,27,college/grad student,F
+168,123855,28,sales/marketing,M
+169,998553,83,other or not specified,M
+170,923956,28,executive/managerial,M
+171,39840,28,executive/managerial,M
+172,789145,31,sales/marketing,M
+173,777330,27,academic/educator,F
+174,450917,29,academic/educator,M
+175,120814,26,executive/managerial,M
+176,950068,27,college/grad student,M
+177,735655,34,college/grad student,M
+178,923956,28,executive/managerial,M
+179,870229,25,sales/marketing,M
+180,305005,34,sales/marketing,F
+181,409153,11,artist,F
+182,224680,33,executive/managerial,M
+183,477196,25,executive/managerial,M
+184,741418,31,scientist,M
+185,983054,32,college/grad student,M
+186,765366,25,executive/managerial,M
+187,327279,27,scientist,M
+188,444968,27,self-employed,M
+189,954369,21,homemaker,M
+190,120814,26,executive/managerial,M
+191,870229,25,sales/marketing,M
+192,224680,33,executive/managerial,M
+193,135243,26,college/grad student,M
+194,39840,28,executive/managerial,M
+195,444968,27,self-employed,M
+196,120814,26,executive/managerial,M
+197,420334,33,college/grad student,F
+198,923956,28,executive/managerial,M
+199,110541,30,college/grad student,M
+200,224680,33,executive/managerial,M
+201,504291,27,sales/marketing,M
+202,39840,28,executive/managerial,M
+203,528121,27,college/grad student,M
+204,444968,27,self-employed,M
+205,461,22,customer service,M
+206,450917,29,academic/educator,M
+207,886239,31,other or not specified,M
+208,123855,28,sales/marketing,M
+209,520839,31,sales/marketing,F
+210,224680,33,executive/managerial,M
+211,950068,27,college/grad student,M
+212,39840,28,executive/managerial,M
+213,735655,34,college/grad student,M
+214,409153,11,artist,F
+215,567527,27,college/grad student,M
+216,777330,27,academic/educator,F
+217,765366,25,executive/managerial,M
+218,129908,36,executive/managerial,M
+219,886239,31,other or not specified,M
+220,123855,28,sales/marketing,M
+221,941170,25,scientist,M
+222,135243,26,college/grad student,M
+223,39840,28,executive/managerial,M
+224,954369,21,homemaker,M
+225,741418,31,scientist,M
+226,258125,34,sales/marketing,M
+227,420334,33,college/grad student,F
+228,777330,27,academic/educator,F
+229,120814,26,executive/managerial,M
+230,870229,25,sales/marketing,M
+231,224680,33,executive/managerial,M
+232,504291,27,sales/marketing,M
+233,39840,28,executive/managerial,M
+234,998553,83,other or not specified,M
+235,777330,27,academic/educator,F
+236,461,22,customer service,M
+237,120814,26,executive/managerial,M
+238,870229,25,sales/marketing,M
+239,123855,28,sales/marketing,M
+240,789145,31,sales/marketing,M
+241,343512,34,artist,F
+242,39840,28,executive/managerial,M
+243,735655,34,college/grad student,M
+244,305005,34,sales/marketing,F
+245,444968,27,self-employed,M
+246,931012,34,executive/managerial,M
+247,639232,27,college/grad student,F
+248,327279,27,scientist,M
+249,120814,26,executive/managerial,M
+250,477196,25,executive/managerial,M
+251,870229,25,sales/marketing,M
+252,765366,25,executive/managerial,M
+253,39840,28,executive/managerial,M
+254,454840,27,academic/educator,M
+255,224680,33,executive/managerial,M
+256,941170,25,scientist,M
+257,444968,27,self-employed,M
+258,294056,25,scientist,M
+259,886239,31,other or not specified,M
+260,923956,28,executive/managerial,M
+261,258125,34,sales/marketing,M
+262,123855,28,sales/marketing,M
+263,458694,44,sales/marketing,M
+264,967950,33,sales/marketing,M
+265,741418,31,scientist,M
+266,444968,27,self-employed,M
+267,998553,83,other or not specified,M
+268,120814,26,executive/managerial,M
+269,639232,27,college/grad student,F
+270,137270,26,college/grad student,F
+271,123855,28,sales/marketing,M
+272,789145,31,sales/marketing,M
+273,39840,28,executive/managerial,M
+274,676732,29,sales/marketing,M
+275,224680,33,executive/managerial,M
+276,444968,27,self-employed,M
+277,639232,27,college/grad student,F
+278,950068,27,college/grad student,M
+279,735655,34,college/grad student,M
+280,886239,31,other or not specified,M
+281,123855,28,sales/marketing,M
+282,983054,32,college/grad student,M
+283,931012,34,executive/managerial,M
+284,305005,34,sales/marketing,F
+285,741418,31,scientist,M
+286,777330,27,academic/educator,F
+287,294056,25,scientist,M
+288,954369,21,homemaker,M
+289,120814,26,executive/managerial,M
+290,652836,31,college/grad student,M
+291,886239,31,other or not specified,M
+292,923956,28,executive/managerial,M
+293,795164,31,college/grad student,M
+294,39840,28,executive/managerial,M
+295,765366,25,executive/managerial,M
+296,224680,33,executive/managerial,M
+297,777330,27,academic/educator,F
+298,420334,33,college/grad student,F
+299,639232,27,college/grad student,F
+300,870229,25,sales/marketing,M
+301,458694,44,sales/marketing,M
+302,923956,28,executive/managerial,M
+303,741418,31,scientist,M
+304,998553,83,other or not specified,M
+305,777330,27,academic/educator,F
+306,618945,25,executive/managerial,M
+307,137270,26,college/grad student,F
+308,639232,27,college/grad student,F
+309,886239,31,other or not specified,M
+310,461,22,customer service,M
+311,39840,28,executive/managerial,M
+312,789145,31,sales/marketing,M
+313,224680,33,executive/managerial,M
+314,676732,29,sales/marketing,M
+315,777330,27,academic/educator,F
+316,305005,34,sales/marketing,F
+317,931012,34,executive/managerial,M
+318,120814,26,executive/managerial,M
+319,639232,27,college/grad student,F
+320,567527,27,college/grad student,M
+321,923956,28,executive/managerial,M
+322,983054,32,college/grad student,M
+323,327279,27,scientist,M
+324,224680,33,executive/managerial,M
+325,454840,27,academic/educator,M
+326,652836,31,college/grad student,M
+327,777330,27,academic/educator,F
+328,135243,26,college/grad student,M
+329,120814,26,executive/managerial,M
+330,639232,27,college/grad student,F
+331,870229,25,sales/marketing,M
+332,795164,31,college/grad student,M
+333,224680,33,executive/managerial,M
+334,765366,25,executive/managerial,M
+335,444968,27,self-employed,M
+336,120814,26,executive/managerial,M
+337,420334,33,college/grad student,F
+338,923956,28,executive/managerial,M
+339,998553,83,other or not specified,M
+340,870229,25,sales/marketing,M
+341,224680,33,executive/managerial,M
+342,528121,27,college/grad student,M
+343,137270,26,college/grad student,F
+344,777330,27,academic/educator,F
+345,886239,31,other or not specified,M
+346,789145,31,sales/marketing,M
+347,923956,28,executive/managerial,M
+348,870229,25,sales/marketing,M
+349,461,22,customer service,M
+350,224680,33,executive/managerial,M
+351,480685,33,executive/managerial,M
+352,676732,29,sales/marketing,M
+353,618945,25,executive/managerial,M
+354,941170,25,scientist,M
+355,886239,31,other or not specified,M
+356,983054,32,college/grad student,M
+357,639232,27,college/grad student,F
+358,950068,27,college/grad student,M
+359,39840,28,executive/managerial,M
+360,652836,31,college/grad student,M
+361,444968,27,self-employed,M
+362,454840,27,academic/educator,M
+363,886239,31,other or not specified,M
+364,120814,26,executive/managerial,M
+365,135243,26,college/grad student,M
+366,795164,31,college/grad student,M
+367,258125,34,sales/marketing,M
+368,870229,25,sales/marketing,M
+369,110541,30,college/grad student,M
+370,224680,33,executive/managerial,M
+371,618945,25,executive/managerial,M
+372,777330,27,academic/educator,F
+373,967950,33,sales/marketing,M
+374,639232,27,college/grad student,F
+375,39840,28,executive/managerial,M
+376,998553,83,other or not specified,M
+377,444968,27,self-employed,M
+378,886239,31,other or not specified,M
+379,120814,26,executive/managerial,M
+380,528121,27,college/grad student,M
+381,789145,31,sales/marketing,M
+382,870229,25,sales/marketing,M
+383,461,22,customer service,M
+384,224680,33,executive/managerial,M
+385,618945,25,executive/managerial,M
+386,735655,34,college/grad student,M
+387,120814,26,executive/managerial,M
+388,931012,34,executive/managerial,M
+389,480685,33,executive/managerial,M
+390,639232,27,college/grad student,F
+391,983054,32,college/grad student,M
+392,305005,34,sales/marketing,F
+393,39840,28,executive/managerial,M
+394,327279,27,scientist,M
+395,454840,27,academic/educator,M
+396,444968,27,self-employed,M
+397,886239,31,other or not specified,M
+398,294056,25,scientist,M
+399,120814,26,executive/managerial,M
+400,652836,31,college/grad student,M
+401,870229,25,sales/marketing,M
+402,224680,33,executive/managerial,M
+403,765366,25,executive/managerial,M
+404,618945,25,executive/managerial,M
+405,420334,33,college/grad student,F
+406,777330,27,academic/educator,F
+407,110541,30,college/grad student,M
+408,393466,33,customer service,M
+409,672662,29,sales/marketing,F
+410,39840,28,executive/managerial,M
+411,528121,27,college/grad student,M
+412,444968,27,self-employed,M
+413,618945,25,executive/managerial,M
+414,998553,83,other or not specified,M
+415,258140,31,other or not specified,M
+416,886239,31,other or not specified,M
+417,450917,29,academic/educator,M
+418,672662,29,sales/marketing,F
+419,477196,25,executive/managerial,M
+420,343512,34,artist,F
+421,870229,25,sales/marketing,M
+422,735655,34,college/grad student,M
+423,444968,27,self-employed,M
+424,567527,27,college/grad student,M
+425,305005,34,sales/marketing,F
+426,120814,26,executive/managerial,M
+427,886239,31,other or not specified,M
+428,983054,32,college/grad student,M
+429,393466,33,customer service,M
+430,327279,27,scientist,M
+431,672662,29,sales/marketing,F
+432,454840,27,academic/educator,M
+433,224680,33,executive/managerial,M
+434,129908,36,executive/managerial,M
+435,294056,25,scientist,M
+436,444968,27,self-employed,M
+437,795164,31,college/grad student,M
+438,258140,31,other or not specified,M
+439,886239,31,other or not specified,M
+440,120814,26,executive/managerial,M
+441,765366,25,executive/managerial,M
+442,420334,33,college/grad student,F
+443,672662,29,sales/marketing,F
+444,110541,30,college/grad student,M
+445,224680,33,executive/managerial,M
+446,444968,27,self-employed,M
+447,258140,31,other or not specified,M
+448,998553,83,other or not specified,M
+449,393466,33,customer service,M
+450,777330,27,academic/educator,F
+451,137270,26,college/grad student,F
+452,672662,29,sales/marketing,F
+453,461,22,customer service,M
+454,224680,33,executive/managerial,M
+455,520839,31,sales/marketing,F
+456,444968,27,self-employed,M
+457,676732,29,sales/marketing,M
+458,258140,31,other or not specified,M
+459,567527,27,college/grad student,M
+460,305005,34,sales/marketing,F
+461,886239,31,other or not specified,M
+462,120814,26,executive/managerial,M
+463,950068,27,college/grad student,M
+464,941170,25,scientist,M
+465,672662,29,sales/marketing,F
+466,39840,28,executive/managerial,M
+467,652836,31,college/grad student,M
+468,454840,27,academic/educator,M
+469,444968,27,self-employed,M
+470,294056,25,scientist,M
+471,618945,25,executive/managerial,M
+472,886239,31,other or not specified,M
+473,777330,27,academic/educator,F
+474,795164,31,college/grad student,M
+475,258125,34,sales/marketing,M
+476,672662,29,sales/marketing,F
+477,224680,33,executive/managerial,M
+478,444968,27,self-employed,M
+479,458694,44,sales/marketing,M
+480,258140,31,other or not specified,M
+481,886239,31,other or not specified,M
+482,393466,33,customer service,M
+483,110541,30,college/grad student,M
+484,485274,28,college/grad student,M
+485,639232,27,college/grad student,F
+486,528121,27,college/grad student,M
+487,39840,28,executive/managerial,M
+488,870229,25,sales/marketing,M
+489,137270,26,college/grad student,F
+490,618945,25,executive/managerial,M
+491,886239,31,other or not specified,M
+492,789145,31,sales/marketing,M
+493,520839,31,sales/marketing,F
+494,777330,27,academic/educator,F
+495,584140,26,college/grad student,M
+496,672662,29,sales/marketing,F
+497,735655,34,college/grad student,M
+498,305005,34,sales/marketing,F
+499,224680,33,executive/managerial,M
